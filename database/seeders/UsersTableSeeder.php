@@ -13,6 +13,7 @@ class UsersTableSeeder extends Seeder
      *
      * @return void
      */
+    
     public function run()
     {
         $users = [
