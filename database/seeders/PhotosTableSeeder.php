@@ -29,3 +29,4 @@ class PhotosTableSeeder extends Seeder
         }
     }
 }
+

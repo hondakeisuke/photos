@@ -68,7 +68,6 @@ return [
     */
 
     'timezone' => 'Asia/tokyo',
-
     /*
     |--------------------------------------------------------------------------
     | Application Locale Configuration
